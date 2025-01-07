@@ -1,4 +1,5 @@
 # Learnly and SOAP APIs Repository
+[Learnly-SOA-Project.pdf](https://github.com/user-attachments/files/18338362/Learnly-SOA-Project.pdf)
 
 Bienvenue dans ce dépôt GitHub ! Ce dépôt contient trois projets principaux :
 
@@ -13,8 +14,6 @@ Bienvenue dans ce dépôt GitHub ! Ce dépôt contient trois projets principaux 
 1. [Learnly](#learnly)
 2. [SOAP YouTube API](#soap-youtube-api)
 3. [SOAP Courses API](#soap-courses-api)
-4. [Comment Contribuer](#comment-contribuer)
-5. [Licence](#licence)
 
 ---
 
@@ -25,6 +24,10 @@ Learnly est une plateforme qui regroupe des ressources éducatives en un seul en
 1. **API YouTube** : Pour afficher des vidéos interactives correspondant aux centres d'intérêt des utilisateurs.
 2. **API GPT** : Pour résumer des articles ou documents via l'intelligence artificielle.
 3. **API REST Personnalisée** : Développée avec Express.js pour gérer les cours.
+
+### Demo
+
+Uploading Enregistrement 2025-01-07 212014.mp4…
 
 ### Fonctionnalités
 
@@ -43,3 +46,34 @@ Learnly est une plateforme qui regroupe des ressources éducatives en un seul en
 1. Clonez ce dépôt :
    ```bash
    git clone https://github.com/votre-utilisateur/votre-depot.git
+
+
+## SOAP YouTube API
+Cette API SOAP en Java permet de rechercher et d'afficher des vidéos YouTube en utilisant l'API RapidAPI.
+
+### Fonctionnalités
+Recherche de vidéos par mots-clés.
+
+Récupération des détails d'une vidéo (titre, description, miniature, etc.).
+
+### Technologies Utilisées
+- **Langage** : Java.
+
+- **Framework** : JAX-WS pour les services web SOAP.
+
+- **API Externe** : YouTube Search and Download via RapidAPI.
+
+---
+
+## SOAP Courses API
+Cette API SOAP en Java permet de gérer des ressources éducatives (cours).
+
+### Fonctionnalités
+Récupérer la liste de tous les cours.
+
+Récupérer les détails d'un cours spécifique.
+
+### Technologies Utilisées
+- **Langage** : Java.
+
+- **Framework** : JAX-WS pour les services web SOAP.
