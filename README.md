@@ -1,4 +1,4 @@
-# Learnly and SOAP APIs Repository
+# 👨🏼‍🎓Learnly and SOAP APIs Repository
 
 Bienvenue dans ce dépôt GitHub ! Ce dépôt contient trois projets principaux :
 
@@ -8,7 +8,7 @@ Bienvenue dans ce dépôt GitHub ! Ce dépôt contient trois projets principaux 
 
 ---
 
-## Table des Matières
+## 👨🏼‍🏫Table des Matières
 
 1. [Learnly](#learnly)
 2. [SOAP YouTube API](#soap-youtube-api)
@@ -24,7 +24,7 @@ Learnly est une plateforme qui regroupe des ressources éducatives en un seul en
 2. **API GPT** : Pour résumer des articles ou documents via l'intelligence artificielle.
 3. **API REST Personnalisée** : Développée avec Express.js pour gérer les cours.
 
-### Demo
+### ⚡Demo
 
 https://drive.google.com/drive/folders/1ns7U0N2Z0FqPfqeLiiUtPjMv69-r9U-k?usp=sharing
 
