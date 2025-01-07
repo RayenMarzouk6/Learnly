@@ -1,0 +1,25 @@
+@keyframes gradientBackground {
+    0% {
+      background-color: #fbc2eb; /* Rose clair */
+    }
+    20% {
+      background-color: #a6c1ee; /* Bleu pastel */
+    }
+    40% {
+      background-color: #fad0c4; /* Pêche doux */
+    }
+    60% {
+      background-color: #f3d1f4; /* Lilas léger */
+    }
+    80% {
+      background-color: #c6ffdd; /* Vert menthe */
+    }
+    100% {
+      background-color: #fbc2eb; /* Rose clair */
+    }
+  }
+
+  .animated-bg {
+    animation: gradientBackground 6s infinite alternate;
+    transition: all 0.3s ease-in-out;
+  }
